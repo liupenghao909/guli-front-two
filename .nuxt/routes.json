@@ -1,0 +1,72 @@
+[
+  {
+    "name": "course",
+    "path": "/course",
+    "component": "/Users/Penghao/VScodeProjects/guli-front/pages/course/index.vue",
+    "chunkName": "pages/course/index",
+    "_name": "_77d6a985"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/Penghao/VScodeProjects/guli-front/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_f465bf5c"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/Penghao/VScodeProjects/guli-front/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_58153f4a"
+  },
+  {
+    "name": "teacher",
+    "path": "/teacher",
+    "component": "/Users/Penghao/VScodeProjects/guli-front/pages/teacher/index.vue",
+    "chunkName": "pages/teacher/index",
+    "_name": "_051bba4e"
+  },
+  {
+    "name": "course-id",
+    "path": "/course/:id",
+    "component": "/Users/Penghao/VScodeProjects/guli-front/pages/course/_id.vue",
+    "chunkName": "pages/course/_id",
+    "_name": "_419b492d"
+  },
+  {
+    "name": "orders-oid",
+    "path": "/orders/:oid?",
+    "component": "/Users/Penghao/VScodeProjects/guli-front/pages/orders/_oid.vue",
+    "chunkName": "pages/orders/_oid",
+    "_name": "_ba4687c4"
+  },
+  {
+    "name": "pay-pid",
+    "path": "/pay/:pid?",
+    "component": "/Users/Penghao/VScodeProjects/guli-front/pages/pay/_pid.vue",
+    "chunkName": "pages/pay/_pid",
+    "_name": "_c0b4bb0c"
+  },
+  {
+    "name": "player-vid",
+    "path": "/player/:vid?",
+    "component": "/Users/Penghao/VScodeProjects/guli-front/pages/player/_vid.vue",
+    "chunkName": "pages/player/_vid",
+    "_name": "_6e425e69"
+  },
+  {
+    "name": "teacher-id",
+    "path": "/teacher/:id",
+    "component": "/Users/Penghao/VScodeProjects/guli-front/pages/teacher/_id.vue",
+    "chunkName": "pages/teacher/_id",
+    "_name": "_2d600f94"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/Penghao/VScodeProjects/guli-front/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_87b5058a"
+  }
+]
